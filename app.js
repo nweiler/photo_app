@@ -1,7 +1,8 @@
 /**
  * Module dependencies.
  * New comment
- * Referencing issue #5 via commit message 
+ * Referencing issue #5 via commit message
+ * Closing issue #5 via commit message 
 */
 
 var express = require('express');
