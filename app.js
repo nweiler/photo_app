@@ -3,7 +3,8 @@
  * New comment
  * Referencing issue #5 via commit message
  * Closing issue #5 via commit message
- * Creating new branch feature2 
+ * Creating new branch feature2
+ * Creating new branch feature3 for pull request 
 */
 
 var express = require('express');
