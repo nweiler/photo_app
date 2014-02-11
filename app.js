@@ -2,7 +2,8 @@
  * Module dependencies.
  * New comment
  * Referencing issue #5 via commit message
- * Closing issue #5 via commit message 
+ * Closing issue #5 via commit message
+ * Creating new branch feature2 
 */
 
 var express = require('express');
