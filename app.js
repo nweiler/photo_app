@@ -1,7 +1,8 @@
 /**
  * Module dependencies.
  * New comment
- */
+ * Referencing issue #5 via commit message 
+*/
 
 var express = require('express');
 var routes = require('./routes');
