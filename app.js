@@ -5,7 +5,8 @@
  * Closing issue #5 via commit message
  * Creating new branch feature2
  * Creating new branch feature3 for pull request
- * New branch for hotfix issue #9 
+ * New branch for hotfix issue #9
+ * Trying again for issue 11 
 */
 
 var express = require('express');
