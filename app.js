@@ -7,7 +7,8 @@
  * Creating new branch feature3 for pull request
  * New branch for hotfix issue #9
  * Trying again for issue 11
- * Attempting trello commit hook 
+ * Attempting trello commit hooki
+ * Again... 
 */
 
 var express = require('express');
