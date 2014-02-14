@@ -15,7 +15,8 @@
  * Another commit
  * Testing notifications
  * Testing new board
- * Testing new board 
+ * Testing new board
+ * Testing notifications 
 */
 
 var express = require('express');
